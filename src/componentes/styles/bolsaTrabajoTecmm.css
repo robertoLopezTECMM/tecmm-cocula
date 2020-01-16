@@ -1,0 +1,18 @@
+.div-principalBolsaTrabajoTecmm{
+  width:80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: white;
+}
+
+.div-principalBolsaTrabajoTecmm h1{
+  font-family: "Gotham-Ultra";
+  color:#2DA19A;
+}
+.div-cardsVacantes{
+  padding: 1%;
+}
+
+.ui.card{
+  border:1px #6D356C solid;
+}

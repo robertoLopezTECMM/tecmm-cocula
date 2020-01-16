@@ -74,7 +74,7 @@ class Footer extends Component{
           <a class="tag" target="_blank" href="https://sicyt.jalisco.gob.mx/" >SICyT</a>
           <a class="tag" target="_blank" href="/rectoria">ORGANIGRAMA</a>
           <a class="tag" target="_blank" href="http://187.174.80.186/compras/">LICITACIONES</a>
-          <a class="tag" target="_blank" href="https://tecnm.occ.com.mx/Bolsa_Trabajo">BOLSA DE TRABAJO</a>
+          <a class="tag" target="_blank" href="https://tecnm.occ.com.mx/Bolsa_Trabajo">BOLSA DE TRABAJO OCC</a>
           <a class="tag" target="_blank" href="http://tecmm.edu.mx/normatividad">NORMATIVIDAD</a>
           <a class="tag" target="_blank" href="/juntasDeGobierno">JUNTAS DE GOBIERNO</a>
           <a class="tag" target="_blank" href="/modeloAcademico">MODELO ACADÉMICO</a>
@@ -82,6 +82,7 @@ class Footer extends Component{
           <a class="tag" target="_blank" href="/unidadesAcademicas">UNIDADES ACADÉMICAS</a>
           <a class="tag" target="_blank" href="/eneit">ENEIT 2019</a>
           <a class="tag" target="_blank" href="/Contacto">CONTACTO</a>
+          <a class="tag" target="_blank" href="https://tecnm.occ.com.mx/Bolsa_Trabajo">BOLSA DE TRABAJO TECMM</a>
           <a class="tag" target="_blank" href="https://www.conacyt.gob.mx/">CONACYT</a>
         </div>
 
@@ -99,7 +100,7 @@ class Footer extends Component{
           </div>
           <iframe className="direccionMap" frameborder="0"  allowfullscreen="" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3740.240101802108!2d-103.8105238853551!3d20.372987886357247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8425e5db119ec093%3A0x937b9a79bb616196!2sTecMM%20Campus%20Cocula!5e0!3m2!1ses!2smx!4v1579019060833!5m2!1ses!2smx"></iframe>
 
-          
+
 
 
         </div>

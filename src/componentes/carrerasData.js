@@ -334,7 +334,7 @@ export default function CarrerasData(){
 
     carrerasArray[11]={
       name: 'Ingenieria-en-Gestion-Empresarial',
-      link:'http://tecmm.edu.mx/Carrera/Ingenieria-en-Sistemas-Computacionales',
+      link:'http://tecmm.edu.mx/Carrera/Ingenieria-en-Gestion-Empresarial',
       card:CardIngGestionEmpresarial,
       portada: IngGestionEmpresarial,
       youtube:'SIbWitsNhu0',
